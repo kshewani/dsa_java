@@ -22,7 +22,7 @@ Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/
 Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/arrays/reverse/ArrayReverseUsingRecursion.java
    
 ## Maths
-### Count the number of carry operations when adding two numbers
+#### Count the number of carry operations when adding two numbers
 1. Initialize carry_count and previous_carry variables to 0.
 2. Get the last digit of both numbers (number % 10) and get the sum of both.
 3. Add previous_carry to the sum calculated in step 2.
