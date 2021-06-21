@@ -31,4 +31,4 @@ Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/
 6. Divide both numbers by 10 to eliminate the last digit (discard the decimal part after division).
 7. Continue steps 2 to 6 until any of the numbers is greater than 0.  
 
-Complete solution: 
+Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/maths/CountCarryOperations.java
