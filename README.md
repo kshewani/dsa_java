@@ -47,4 +47,4 @@ Complete solution:
 4. Replace last "twos" count of elements with 2.
 5. Return the array.
 
-Complete solution:
+Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/arrays/sorting/Sort012.java
