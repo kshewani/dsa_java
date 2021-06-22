@@ -37,6 +37,15 @@ Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/
 
 Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/arrays/sorting/Sort012.java
 
+### Move all negative numbers to the left in an array
+1. Start from first and last elements of the array and repeat considering them as left and right and move towards the center until left meets right.
+2. If both left and right element values are negative then decrement right by one.
+3. If both left and right element values are positive then increment left by one.
+4. If right element value is negative and left is positive, swap the values.
+5. If left element is negative and right is positive then these are alread in correct position, just increment right by one and decrement left by one.
+
+Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/arrays/sorting/MoveNegativesToOneSide.java
+
 ## Maths
 ### Count the number of carry operations when adding two numbers
 1. Initialize carry_count and previous_carry variables to 0.
