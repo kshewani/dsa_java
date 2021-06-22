@@ -32,3 +32,8 @@ Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/
 7. Continue steps 2 to 6 until any of the numbers is greater than 0.  
 
 Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/maths/CountCarryOperations.java
+
+#### Find minimum and maximum values from a given array
+1. Initialize min and max variables to the value of first element in the array.
+2. Run through the entire array. If any of the values is smaller than the min value then that becomes min and if any of the values is larger than max value then that becomes max.
+3. Return min and max values.
