@@ -46,6 +46,19 @@ Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/
 
 Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/arrays/sorting/MoveNegativesToOneSide.java
 
+### Union and intersection of two arrays
+Union:
+1. Add both arrays to a HashSet (hashset allows only unique values).
+2. Convert the HashSet to an array.
+
+Intersection:
+1. Sort the smaller array.
+2. Create a list to hold intersection
+3. For each number in larger array, check if it also exists in smaller array. If it does, then add it to intersection list.
+4. Return the intersection array.
+
+Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/arrays/UnionAndIntersection.java
+
 ## Maths
 ### Count the number of carry operations when adding two numbers
 1. Initialize carry_count and previous_carry variables to 0.
