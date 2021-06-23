@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class MoveNegativesToOneSideTest {
+class MoveNegativesToOneSideTests {
 
     @BeforeEach
     void setUp() {
