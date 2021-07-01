@@ -59,6 +59,13 @@ Intersection:
 
 Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/arrays/UnionAndIntersection.java
 
+### Cyclically rotate an array by 1 place [1, 2, 3, 4, 5] becomes [5, 1, 2, 3, 4]
+1. Store value of last element of the array in a variable.
+2. Start from second last element and keep moving the values to next element on the right until you reach the beginning of the array.
+3. Copy the last element value to first element of the array.
+
+Complete solution: https://github.com/kshewani/dsa_java/blob/main/src/main/java/arrays/CyclicRotation.java
+
 ## Maths
 ### Count the number of carry operations when adding two numbers
 1. Initialize carry_count and previous_carry variables to 0.
