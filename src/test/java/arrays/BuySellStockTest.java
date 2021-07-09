@@ -1,4 +1,4 @@
-package arrays.sorting;
+package arrays;
 
 import org.junit.jupiter.api.Test;
 
